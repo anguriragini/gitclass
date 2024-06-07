@@ -9,12 +9,11 @@ static void checkPrime(int n){
     if(n%i==0){      
      System.out.println(n+" is not prime number");      
      flag=1;      
-     break;      
-    }      
-   }      
+     break;}}     
+          
+      
    if(flag==0)  { System.out.println(n+" is prime number"); }  
-  }//end of else  
-}  
- public static void main(String args[]){    
-  checkPrime(1);  
-  checkPrime(3);  
+  }//end of else}}
+primenumber programme added here
+please check the programme file
+onv=ce updated merge and update  
